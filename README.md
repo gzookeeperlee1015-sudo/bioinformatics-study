@@ -22,3 +22,11 @@ FASTQ, BAM, VCF, reference genome 및 환자·샘플 수준 데이터는 이 저
 
 Notebook: `notebooks/01_fastq_basic.ipynb`
 
+## FastQC summary
+
+- R1/R2: 1,449,575 reads each
+- Read length: 76 bp
+- Per-base quality: PASS
+- Adapter content: PASS
+- R1 GC/content bias: WARN
+- R2 overall QC: PASS
