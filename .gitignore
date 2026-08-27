@@ -1,0 +1,51 @@
+# Generated analysis outputs and logs
+results/
+logs/
+
+# Jupyter and Python temporary files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Sequencing reads and alignment files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+
+# Variant, reference, and annotation data
+*.vcf
+*.vcf.gz
+*.bcf
+*.tbi
+*.csi
+*.fa
+*.fa.gz
+*.fasta
+*.fasta.gz
+*.fna
+*.gtf
+*.gff
+*.gff3
+
+# Large bioinformatics objects and archives
+*.h5
+*.h5ad
+*.rds
+*.rda
+*.tar
+*.tar.gz
+*.zip
+
+# Local environment and editor files
+.env
+.venv/
+venv/
+.DS_Store
+
