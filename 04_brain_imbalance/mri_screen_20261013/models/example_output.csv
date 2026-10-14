@@ -1,0 +1,13 @@
+id,bag_years,bag_percentile_in_age,top3_deviant_regions(z),score_any_disease,score_htn,score_dm,score_lip,screen_flag(spec90)
+K_FOLLOW_0001,6.37,95.1,rh_whole_brain(-2.7); ctx_cuneus(-2.2); subctx_thalamus(-2.2),0.886,0.896,0.775,0.623,1
+K_FOLLOW_0002,4.9,94.4,subctx_accumbens(-3.5); ctx_rh_cingulate(-2.7); ctx_cingulate(-2.4),0.499,0.377,0.236,0.197,0
+K_FOLLOW_0003,2.21,74.0,ctx_entorhinal(-2.9); ctx_middle_temporal(-2.0); lh_lateral_ventricle_w_inf(+1.8),0.753,0.731,0.537,0.402,0
+K_FOLLOW_0004,-1.96,25.6,subctx_hippocampus(+2.1); subctx_amygdala(+1.7); ctx_entorhinal(+1.6),0.316,0.147,0.05,0.193,0
+K_FOLLOW_0005,5.7,93.6,subctx_pallidum(-2.9); rh_cerebral_white_matter(-2.0); lh_cerebral_white_matter(-1.7),0.48,0.365,0.238,0.22,0
+K_FOLLOW_0006,5.06,91.8,ctx_pericalcarine(+1.6); subctx_ventraldc(-1.5); ctx_precuneus(-1.5),0.666,0.579,0.319,0.373,0
+K_FOLLOW_0007,-0.87,45.9,ctx_caudal_middle_frontal(-2.4); subctx_caudate(+1.6); ctx_lh_occipital_lobe(-1.6),0.367,0.195,0.085,0.248,0
+K_FOLLOW_0008,-1.85,34.8,subctx_caudate(+2.2); subctx_hippocampus(+1.7); ctx_rh_cerebral_grey_matter(+1.6),0.148,0.035,0.01,0.074,0
+K_FOLLOW_0009,2.51,81.4,ctx_parahippocampal(-2.1); lh_lateral_ventricle_w_inf(+1.8); ctx_superior_temporal(-1.8),0.401,0.243,0.158,0.198,0
+K_FOLLOW_0010,-4.44,5.6,ctx_rh_parietal_lobe(+3.9); ctx_lh_parietal_lobe(+3.7); ctx_parietal_lobe(+3.5),0.33,0.101,0.084,0.23,0
+K_FOLLOW_0011,0.56,64.8,corpus_callosum(+2.1); subctx_ventraldc(+2.0); ctx_pericalcarine(-1.8),0.378,0.333,0.17,0.157,0
+K_FOLLOW_0012,1.37,66.4,subctx_ventraldc(-1.9); rh_cerebellum(-1.8); whole_brain(-1.7),0.764,0.821,0.671,0.356,1

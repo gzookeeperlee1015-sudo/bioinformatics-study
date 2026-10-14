@@ -1,0 +1,385 @@
+질환,변수,표준화계수
+전체 질환,나이,0.33436442848765624
+전체 질환,성별,-0.03196748775993304
+전체 질환,MRI z_BV_whole_brain,0.10516090042782171
+전체 질환,MRI z_BV_ctx_cerebral_grey_matter,0.18123644408049736
+전체 질환,MRI z_BV_cerebral_white_matter,0.13098176840770331
+전체 질환,MRI z_BV_cerebellum,-0.05925364913198101
+전체 질환,MRI z_BV_ctx_frontal_lobe,-0.07044608302867601
+전체 질환,MRI z_BV_ctx_temporal_lobe,-0.11467725535786268
+전체 질환,MRI z_BV_ctx_parietal_lobe,-0.06801160712756468
+전체 질환,MRI z_BV_ctx_occipital_lobe,-0.0132870361655061
+전체 질환,MRI z_BV_ctx_cingulate,0.01960299926830045
+전체 질환,MRI z_BV_corpus_callosum,-0.48189507792040165
+전체 질환,MRI z_BV_subctx_hippocampus,-0.27721421517958283
+전체 질환,MRI z_BV_subctx_amygdala,0.024063694670062474
+전체 질환,MRI z_BV_subctx_thalamus,-0.14898557894856415
+전체 질환,MRI z_BV_subctx_caudate,-0.05335009914717969
+전체 질환,MRI z_BV_subctx_putamen,-0.08977830074147443
+전체 질환,MRI z_BV_subctx_pallidum,0.16100185900484226
+전체 질환,MRI z_BV_subctx_accumbens,-0.16682204176318094
+전체 질환,MRI z_BV_subctx_ventraldc,-0.06751041676379456
+전체 질환,MRI z_BV_ctx_entorhinal,0.017666208648843253
+전체 질환,MRI z_BV_ctx_parahippocampal,0.013335110825942357
+전체 질환,MRI z_BV_ctx_fusiform,0.06068198953278911
+전체 질환,MRI z_BV_ctx_inferior_temporal,0.041855515509129464
+전체 질환,MRI z_BV_ctx_middle_temporal,0.033488093068395196
+전체 질환,MRI z_BV_ctx_superior_temporal,0.000740459324738933
+전체 질환,MRI z_BV_ctx_precuneus,0.025014858222232303
+전체 질환,MRI z_BV_ctx_posterior_cingulate,0.017313318573947304
+전체 질환,MRI z_BV_ctx_rostral_anterior_cingulate,-0.07148927449977677
+전체 질환,MRI z_BV_ctx_superior_frontal,0.015672478714234914
+전체 질환,MRI z_BV_ctx_rostral_middle_frontal,-0.08274898488620648
+전체 질환,MRI z_BV_ctx_caudal_middle_frontal,-0.0247802771643289
+전체 질환,MRI z_BV_ctx_lateral_orbito_frontal,-0.1737899603186948
+전체 질환,MRI z_BV_ctx_medial_orbito_frontal,-0.08677587739965552
+전체 질환,MRI z_BV_ctx_precentral,0.09048713283299895
+전체 질환,MRI z_BV_ctx_postcentral,-0.017606883150427334
+전체 질환,MRI z_BV_ctx_inferior_parietal,-0.08573444889722127
+전체 질환,MRI z_BV_ctx_superior_parietal,0.0018328876140731604
+전체 질환,MRI z_BV_ctx_supramarginal,-0.10338485328987157
+전체 질환,MRI z_BV_ctx_insula,0.11483584965663354
+전체 질환,MRI z_BV_ctx_pericalcarine,-0.04284641573014041
+전체 질환,MRI z_BV_ctx_lingual,-0.04457177954789909
+전체 질환,MRI z_BV_ctx_cuneus,0.04168494650765744
+전체 질환,MRI z_BV_ctx_lh_cerebral_grey_matter,0.04428652876598021
+전체 질환,MRI z_BV_ctx_rh_cerebral_grey_matter,0.2587509771355041
+전체 질환,MRI z_BV_lh_cerebral_white_matter,0.05133573406366322
+전체 질환,MRI z_BV_rh_cerebral_white_matter,0.054282326170855405
+전체 질환,MRI z_BV_ctx_lh_frontal_lobe,-0.04032208716851276
+전체 질환,MRI z_BV_ctx_rh_frontal_lobe,-0.03586300365975511
+전체 질환,MRI z_BV_ctx_lh_temporal_lobe,-0.13488311636850359
+전체 질환,MRI z_BV_ctx_rh_temporal_lobe,-0.03708981461330735
+전체 질환,MRI z_BV_ctx_lh_parietal_lobe,0.014540183855698269
+전체 질환,MRI z_BV_ctx_rh_parietal_lobe,-0.07383645720414489
+전체 질환,MRI z_BV_ctx_lh_occipital_lobe,-0.10237224154178112
+전체 질환,MRI z_BV_ctx_rh_occipital_lobe,-0.039488702146050055
+전체 질환,MRI z_BV_ctx_lh_cingulate,-0.055737022013486764
+전체 질환,MRI z_BV_ctx_rh_cingulate,-0.049551047886472
+전체 질환,MRI z_BV_lh_lateral_ventricle_w_inf,-0.0027651668448512748
+전체 질환,MRI z_BV_rh_lateral_ventricle_w_inf,-0.03518396811608369
+전체 질환,MRI z_BV_lh_whole_brain,-0.06923347418576424
+전체 질환,MRI z_BV_rh_whole_brain,0.11666423025688755
+전체 질환,MRI z_BV_lh_cerebellum,0.07330186523235024
+전체 질환,MRI z_BV_rh_cerebellum,-0.017591411728159832
+전체 질환,MRI k_BV_lateral_ventricle,0.36283278255901413
+전체 질환,MRI kf_BV_lateral_ventricle,0.07528514603373847
+전체 질환,MRI k_BV_ventricles,0.156592450348019
+전체 질환,MRI kf_BV_ventricles,0.008727048274772647
+전체 질환,MRI k_BV_inf_lat_vent,-0.2229512815178981
+전체 질환,MRI kf_BV_inf_lat_vent,-0.05644374960579008
+전체 질환,MRI k_BV_lateral_ventricle_w_inf,0.2232595512003489
+전체 질환,MRI kf_BV_lateral_ventricle_w_inf,0.09595335596035248
+전체 질환,설문 음주,-0.059142700966923895
+전체 질환,설문 흡연,-0.021289050787213284
+전체 질환,설문 운동,0.15866571174803515
+전체 질환,설문 고혈압 가족력(부),0.14146574176909152
+전체 질환,설문 고혈압 가족력(모),0.17787229470748447
+전체 질환,설문 당뇨 가족력(부),0.07784787700950853
+전체 질환,설문 당뇨 가족력(모),0.08411914693086137
+전체 질환,설문 심리 스트레스(PSM),0.019125562386951303
+전체 질환,설문 BMI,0.257050982256506
+전체 질환,설문 허리둘레,0.30357905418489617
+전체 질환,SNP rs17367504,0.1820042585345077
+전체 질환,SNP rs3774372,0.14857242273014806
+전체 질환,SNP rs11191548,0.19174247854124946
+전체 질환,SNP rs7865618,0.1408533287083569
+전체 질환,SNP rs11014166,0.14903348564371807
+전체 질환,SNP rs10757272_ld11,0.13713487932370508
+전체 질환,SNP rs880315_ld11,0.13974528315910975
+전체 질환,SNP rs381815_ld9,0.17160975433197911
+전체 질환,SNP rs17249754_ld11,0.12833585847559806
+전체 질환,SNP rs12946454_ld14,0.13728396800349815
+전체 질환,SNP rs5068,0.15089860741197042
+전체 질환,SNP rs16998073,0.10477846716710333
+전체 질환,SNP rs16948048_ld11,0.14194909133155362
+전체 질환,SNP rs11066280_ld8,0.09022619042047948
+전체 질환,SNP rs3184504,0.18988497898792614
+고혈압,나이,0.32915574996029984
+고혈압,성별,0.050715790537775036
+고혈압,MRI z_BV_whole_brain,0.09022205114267107
+고혈압,MRI z_BV_ctx_cerebral_grey_matter,0.26634668708888665
+고혈압,MRI z_BV_cerebral_white_matter,0.16713461908958369
+고혈압,MRI z_BV_cerebellum,-0.02179190231137768
+고혈압,MRI z_BV_ctx_frontal_lobe,-0.08663314203231319
+고혈압,MRI z_BV_ctx_temporal_lobe,-0.16692950186813083
+고혈압,MRI z_BV_ctx_parietal_lobe,-0.13021463777034192
+고혈압,MRI z_BV_ctx_occipital_lobe,-0.0350926448761729
+고혈압,MRI z_BV_ctx_cingulate,-0.0176113344423902
+고혈압,MRI z_BV_corpus_callosum,-0.6407851835798228
+고혈압,MRI z_BV_subctx_hippocampus,-0.42203184395824334
+고혈압,MRI z_BV_subctx_amygdala,0.01350161013927948
+고혈압,MRI z_BV_subctx_thalamus,-0.18425045662478412
+고혈압,MRI z_BV_subctx_caudate,-0.07775649307942577
+고혈압,MRI z_BV_subctx_putamen,-0.15287089979608193
+고혈압,MRI z_BV_subctx_pallidum,0.2052947736866622
+고혈압,MRI z_BV_subctx_accumbens,-0.21074770294398754
+고혈압,MRI z_BV_subctx_ventraldc,-0.1408520568727866
+고혈압,MRI z_BV_ctx_entorhinal,0.10167891610885832
+고혈압,MRI z_BV_ctx_parahippocampal,0.05254719710703289
+고혈압,MRI z_BV_ctx_fusiform,0.04967020758534435
+고혈압,MRI z_BV_ctx_inferior_temporal,0.07427303309582976
+고혈압,MRI z_BV_ctx_middle_temporal,0.06030048671594658
+고혈압,MRI z_BV_ctx_superior_temporal,0.014826128465452003
+고혈압,MRI z_BV_ctx_precuneus,-0.03704143248890765
+고혈압,MRI z_BV_ctx_posterior_cingulate,0.08473804053745454
+고혈압,MRI z_BV_ctx_rostral_anterior_cingulate,-0.12700406464691433
+고혈압,MRI z_BV_ctx_superior_frontal,0.02372223715032329
+고혈압,MRI z_BV_ctx_rostral_middle_frontal,-0.06048482086679755
+고혈압,MRI z_BV_ctx_caudal_middle_frontal,-0.013581721114561426
+고혈압,MRI z_BV_ctx_lateral_orbito_frontal,-0.25325537338010573
+고혈압,MRI z_BV_ctx_medial_orbito_frontal,-0.042689223720205005
+고혈압,MRI z_BV_ctx_precentral,0.12331797824558834
+고혈압,MRI z_BV_ctx_postcentral,-0.0043310165523581376
+고혈압,MRI z_BV_ctx_inferior_parietal,-0.05238441834534122
+고혈압,MRI z_BV_ctx_superior_parietal,-0.023737593024872203
+고혈압,MRI z_BV_ctx_supramarginal,-0.090103683938358
+고혈압,MRI z_BV_ctx_insula,0.08126419869856281
+고혈압,MRI z_BV_ctx_pericalcarine,-0.07508180223198373
+고혈압,MRI z_BV_ctx_lingual,-0.07993399338804122
+고혈압,MRI z_BV_ctx_cuneus,0.019106796392273088
+고혈압,MRI z_BV_ctx_lh_cerebral_grey_matter,0.15612851934017735
+고혈압,MRI z_BV_ctx_rh_cerebral_grey_matter,0.2736109304862841
+고혈압,MRI z_BV_lh_cerebral_white_matter,0.04935687812302726
+고혈압,MRI z_BV_rh_cerebral_white_matter,0.0864743713408442
+고혈압,MRI z_BV_ctx_lh_frontal_lobe,-0.005846946273081606
+고혈압,MRI z_BV_ctx_rh_frontal_lobe,-0.1541668010323896
+고혈압,MRI z_BV_ctx_lh_temporal_lobe,-0.09910526511988549
+고혈압,MRI z_BV_ctx_rh_temporal_lobe,-0.16162836895651225
+고혈압,MRI z_BV_ctx_lh_parietal_lobe,-0.013692358846426956
+고혈압,MRI z_BV_ctx_rh_parietal_lobe,-0.04159261171956104
+고혈압,MRI z_BV_ctx_lh_occipital_lobe,-0.10934425824695233
+고혈압,MRI z_BV_ctx_rh_occipital_lobe,-0.048481268746342766
+고혈압,MRI z_BV_ctx_lh_cingulate,-0.07445576536734244
+고혈압,MRI z_BV_ctx_rh_cingulate,0.015236699042451287
+고혈압,MRI z_BV_lh_lateral_ventricle_w_inf,0.0873747593436293
+고혈압,MRI z_BV_rh_lateral_ventricle_w_inf,0.06946185969955371
+고혈압,MRI z_BV_lh_whole_brain,-0.07154651723960512
+고혈압,MRI z_BV_rh_whole_brain,0.17549386621290128
+고혈압,MRI z_BV_lh_cerebellum,0.045346168730373136
+고혈압,MRI z_BV_rh_cerebellum,-0.0041456589332376555
+고혈압,MRI k_BV_lateral_ventricle,0.40536166657526335
+고혈압,MRI kf_BV_lateral_ventricle,0.17236615560587565
+고혈압,MRI k_BV_ventricles,0.16231341524037082
+고혈압,MRI kf_BV_ventricles,0.040371569545581285
+고혈압,MRI k_BV_inf_lat_vent,-0.2574441587541514
+고혈압,MRI kf_BV_inf_lat_vent,-0.05859263068412417
+고혈압,MRI k_BV_lateral_ventricle_w_inf,0.2625510813970408
+고혈압,MRI kf_BV_lateral_ventricle_w_inf,0.08245749552478289
+고혈압,설문 음주,-0.009312221657103829
+고혈압,설문 흡연,-0.011954018922658452
+고혈압,설문 운동,0.14238561671063185
+고혈압,설문 고혈압 가족력(부),0.26493856392215404
+고혈압,설문 고혈압 가족력(모),0.2976475017792479
+고혈압,설문 당뇨 가족력(부),-0.06347258694331115
+고혈압,설문 당뇨 가족력(모),-0.021122799829576544
+고혈압,설문 심리 스트레스(PSM),-0.006459570510147457
+고혈압,설문 BMI,0.38478046252435
+고혈압,설문 허리둘레,0.3210577088437055
+고혈압,SNP rs3774372,0.26877777914542994
+고혈압,SNP rs17367504,0.27534277499842374
+고혈압,SNP rs10757272_ld11,0.24259823820040055
+고혈압,SNP rs880315_ld13,0.25553516610946997
+고혈압,SNP rs7865618,0.25279930728497557
+고혈압,SNP rs11191548,0.2746866249811766
+고혈압,SNP rs11014166,0.22837907616234554
+고혈압,SNP rs381815,0.2857093149253105
+고혈압,SNP rs5068,0.2658657454541663
+고혈압,SNP rs16998073,0.2208352849620132
+고혈압,SNP rs17249754,0.20087153282812056
+고혈압,SNP rs2157719,0.21776712811615997
+고혈압,SNP rs12946454,0.2112467285455603
+고혈압,SNP rs11066280_ld8,0.2262297086390953
+고혈압,SNP rs671,0.2555245978270037
+당뇨,나이,0.3493360319788035
+당뇨,성별,-0.1026170296316718
+당뇨,MRI z_BV_whole_brain,-0.02919299365544677
+당뇨,MRI z_BV_ctx_cerebral_grey_matter,0.6943980340478222
+당뇨,MRI z_BV_cerebral_white_matter,0.41720249766118506
+당뇨,MRI z_BV_cerebellum,-0.04433150914298987
+당뇨,MRI z_BV_ctx_frontal_lobe,-0.2721543243331251
+당뇨,MRI z_BV_ctx_temporal_lobe,-0.11393435206120617
+당뇨,MRI z_BV_ctx_parietal_lobe,-0.12119642377903968
+당뇨,MRI z_BV_ctx_occipital_lobe,0.10703268211861233
+당뇨,MRI z_BV_ctx_cingulate,0.08867662096994947
+당뇨,MRI z_BV_corpus_callosum,-0.8022866244575395
+당뇨,MRI z_BV_subctx_hippocampus,-0.5032912570873069
+당뇨,MRI z_BV_subctx_amygdala,-0.0724790519810671
+당뇨,MRI z_BV_subctx_thalamus,-0.18527454708360103
+당뇨,MRI z_BV_subctx_caudate,-0.058376567188977505
+당뇨,MRI z_BV_subctx_putamen,-0.09008624807576693
+당뇨,MRI z_BV_subctx_pallidum,0.3458600348997502
+당뇨,MRI z_BV_subctx_accumbens,-0.3837265883014609
+당뇨,MRI z_BV_subctx_ventraldc,-0.09541326624094199
+당뇨,MRI z_BV_ctx_entorhinal,0.024630520249400514
+당뇨,MRI z_BV_ctx_parahippocampal,-0.0603901879426163
+당뇨,MRI z_BV_ctx_fusiform,0.11375663318509242
+당뇨,MRI z_BV_ctx_inferior_temporal,0.017373508839497728
+당뇨,MRI z_BV_ctx_middle_temporal,0.05051373852481542
+당뇨,MRI z_BV_ctx_superior_temporal,-0.051100927649498876
+당뇨,MRI z_BV_ctx_precuneus,-0.07162167643134887
+당뇨,MRI z_BV_ctx_posterior_cingulate,-0.1831345107862927
+당뇨,MRI z_BV_ctx_rostral_anterior_cingulate,-0.2052020680361846
+당뇨,MRI z_BV_ctx_superior_frontal,0.04641148019465109
+당뇨,MRI z_BV_ctx_rostral_middle_frontal,-0.12674691957606776
+당뇨,MRI z_BV_ctx_caudal_middle_frontal,-0.05761839304991521
+당뇨,MRI z_BV_ctx_lateral_orbito_frontal,-0.17783361652145294
+당뇨,MRI z_BV_ctx_medial_orbito_frontal,-0.12983273948973648
+당뇨,MRI z_BV_ctx_precentral,0.18513140001454223
+당뇨,MRI z_BV_ctx_postcentral,-0.1544009367931589
+당뇨,MRI z_BV_ctx_inferior_parietal,-0.16379460998694217
+당뇨,MRI z_BV_ctx_superior_parietal,0.03534052920059261
+당뇨,MRI z_BV_ctx_supramarginal,-0.32808996719997463
+당뇨,MRI z_BV_ctx_insula,0.24900481693492288
+당뇨,MRI z_BV_ctx_pericalcarine,-0.08487886630987089
+당뇨,MRI z_BV_ctx_lingual,-0.015294845865548029
+당뇨,MRI z_BV_ctx_cuneus,0.07325123925066164
+당뇨,MRI z_BV_ctx_lh_cerebral_grey_matter,-0.1683530986023005
+당뇨,MRI z_BV_ctx_rh_cerebral_grey_matter,0.09994860813477649
+당뇨,MRI z_BV_lh_cerebral_white_matter,-0.02070298110410587
+당뇨,MRI z_BV_rh_cerebral_white_matter,-0.008137738523641164
+당뇨,MRI z_BV_ctx_lh_frontal_lobe,0.08450865389495928
+당뇨,MRI z_BV_ctx_rh_frontal_lobe,0.0638445298136675
+당뇨,MRI z_BV_ctx_lh_temporal_lobe,-0.32426459277623026
+당뇨,MRI z_BV_ctx_rh_temporal_lobe,0.16698017455069966
+당뇨,MRI z_BV_ctx_lh_parietal_lobe,0.015936946623127307
+당뇨,MRI z_BV_ctx_rh_parietal_lobe,0.1310354404661688
+당뇨,MRI z_BV_ctx_lh_occipital_lobe,-0.10449927448934469
+당뇨,MRI z_BV_ctx_rh_occipital_lobe,-0.20597085668042447
+당뇨,MRI z_BV_ctx_lh_cingulate,0.2128285053709022
+당뇨,MRI z_BV_ctx_rh_cingulate,-0.2456216045213117
+당뇨,MRI z_BV_lh_lateral_ventricle_w_inf,0.11485255404524954
+당뇨,MRI z_BV_rh_lateral_ventricle_w_inf,-0.24701241558677092
+당뇨,MRI z_BV_lh_whole_brain,-0.069426258696096
+당뇨,MRI z_BV_rh_whole_brain,0.17301735360549264
+당뇨,MRI z_BV_lh_cerebellum,-0.007751893394670295
+당뇨,MRI z_BV_rh_cerebellum,0.08560925911263431
+당뇨,MRI k_BV_lateral_ventricle,0.4930656206949228
+당뇨,MRI kf_BV_lateral_ventricle,0.048573085379497796
+당뇨,MRI k_BV_ventricles,0.19515293852109944
+당뇨,MRI kf_BV_ventricles,-0.06393903700155117
+당뇨,MRI k_BV_inf_lat_vent,-0.5630613814950574
+당뇨,MRI kf_BV_inf_lat_vent,-0.074351278023968
+당뇨,MRI k_BV_lateral_ventricle_w_inf,0.37340680033469137
+당뇨,MRI kf_BV_lateral_ventricle_w_inf,0.3365353240189453
+당뇨,설문 음주,-0.22849426297559763
+당뇨,설문 흡연,0.09194028550865828
+당뇨,설문 운동,0.23644736277304756
+당뇨,설문 고혈압 가족력(부),0.05681174500909756
+당뇨,설문 고혈압 가족력(모),-0.15500758070484127
+당뇨,설문 당뇨 가족력(부),0.35747579903383864
+당뇨,설문 당뇨 가족력(모),0.3053435787124523
+당뇨,설문 심리 스트레스(PSM),-0.023973737378436423
+당뇨,설문 BMI,0.08928568135591818
+당뇨,설문 허리둘레,0.5829456382295896
+당뇨,SNP rs2233580,0.40411699294362174
+당뇨,SNP rs10010131,0.4074494377973801
+당뇨,SNP rs163184_ld8,0.29103655552209373
+당뇨,SNP rs4607103_ld16,0.3390386687598363
+당뇨,SNP rs4402960_ld10,0.4476523356293748
+당뇨,SNP rs13266634_ld5,0.27796736604881334
+당뇨,SNP rs1111875_ld6,0.3275209154384457
+당뇨,SNP rs7903146_ld13,0.3109577824621639
+당뇨,SNP rs10946398,0.2836111795024382
+당뇨,SNP rs7754840_ld10,0.37904040777639364
+당뇨,SNP rs5219,0.35700064090809897
+당뇨,SNP rs10923931_ld2,0.13235336301479028
+당뇨,SNP rs1801282,0.2921182329561479
+당뇨,SNP rs10811661,0.26315859280315984
+당뇨,SNP rs8050136,0.25111959789697313
+고지혈,나이,0.14340013956361894
+고지혈,성별,0.00019102464225516548
+고지혈,MRI z_BV_whole_brain,0.3963299143278302
+고지혈,MRI z_BV_ctx_cerebral_grey_matter,-0.020644495037763617
+고지혈,MRI z_BV_cerebral_white_matter,0.07908025116283714
+고지혈,MRI z_BV_cerebellum,-0.07578905455303944
+고지혈,MRI z_BV_ctx_frontal_lobe,-0.1939039142618928
+고지혈,MRI z_BV_ctx_temporal_lobe,-0.10224897904428464
+고지혈,MRI z_BV_ctx_parietal_lobe,0.0032803104045617333
+고지혈,MRI z_BV_ctx_occipital_lobe,-0.11393975340094047
+고지혈,MRI z_BV_ctx_cingulate,0.16634973045907836
+고지혈,MRI z_BV_corpus_callosum,-0.3125426330752305
+고지혈,MRI z_BV_subctx_hippocampus,-0.169074470592578
+고지혈,MRI z_BV_subctx_amygdala,0.02399851665940549
+고지혈,MRI z_BV_subctx_thalamus,-0.1436180588884212
+고지혈,MRI z_BV_subctx_caudate,0.06952096444111316
+고지혈,MRI z_BV_subctx_putamen,0.024704435004631407
+고지혈,MRI z_BV_subctx_pallidum,0.027819551890737773
+고지혈,MRI z_BV_subctx_accumbens,-0.12578978561752877
+고지혈,MRI z_BV_subctx_ventraldc,-0.023029406940414842
+고지혈,MRI z_BV_ctx_entorhinal,0.03577890278961384
+고지혈,MRI z_BV_ctx_parahippocampal,0.054794914780807204
+고지혈,MRI z_BV_ctx_fusiform,0.10253273674972511
+고지혈,MRI z_BV_ctx_inferior_temporal,-0.08119527855050737
+고지혈,MRI z_BV_ctx_middle_temporal,-0.03699933931986113
+고지혈,MRI z_BV_ctx_superior_temporal,-0.07174588988824114
+고지혈,MRI z_BV_ctx_precuneus,0.08767238399074294
+고지혈,MRI z_BV_ctx_posterior_cingulate,-0.03407096559816422
+고지혈,MRI z_BV_ctx_rostral_anterior_cingulate,-0.0280964458905166
+고지혈,MRI z_BV_ctx_superior_frontal,0.03590279330261379
+고지혈,MRI z_BV_ctx_rostral_middle_frontal,0.04997632690263351
+고지혈,MRI z_BV_ctx_caudal_middle_frontal,-0.0017363945359660344
+고지혈,MRI z_BV_ctx_lateral_orbito_frontal,-0.1680478903846942
+고지혈,MRI z_BV_ctx_medial_orbito_frontal,-0.17352591408480184
+고지혈,MRI z_BV_ctx_precentral,0.015037514656197598
+고지혈,MRI z_BV_ctx_postcentral,0.021505265108618256
+고지혈,MRI z_BV_ctx_inferior_parietal,-0.026692737256256583
+고지혈,MRI z_BV_ctx_superior_parietal,-0.05549254640094384
+고지혈,MRI z_BV_ctx_supramarginal,-0.10163657464897571
+고지혈,MRI z_BV_ctx_insula,0.07980208692326057
+고지혈,MRI z_BV_ctx_pericalcarine,0.07741660634833718
+고지혈,MRI z_BV_ctx_lingual,-0.008395753642439852
+고지혈,MRI z_BV_ctx_cuneus,0.01745214914276059
+고지혈,MRI z_BV_ctx_lh_cerebral_grey_matter,-0.23009616207866482
+고지혈,MRI z_BV_ctx_rh_cerebral_grey_matter,0.39642761881245997
+고지혈,MRI z_BV_lh_cerebral_white_matter,0.17833668555660748
+고지혈,MRI z_BV_rh_cerebral_white_matter,-0.15442895272944385
+고지혈,MRI z_BV_ctx_lh_frontal_lobe,-0.035630117882844384
+고지혈,MRI z_BV_ctx_rh_frontal_lobe,0.21038820975236808
+고지혈,MRI z_BV_ctx_lh_temporal_lobe,-0.016422632253205064
+고지혈,MRI z_BV_ctx_rh_temporal_lobe,0.06749798427845433
+고지혈,MRI z_BV_ctx_lh_parietal_lobe,0.09371799884989952
+고지혈,MRI z_BV_ctx_rh_parietal_lobe,-0.1336325114101836
+고지혈,MRI z_BV_ctx_lh_occipital_lobe,-0.10083949569995478
+고지혈,MRI z_BV_ctx_rh_occipital_lobe,0.044903055302849555
+고지혈,MRI z_BV_ctx_lh_cingulate,-0.10098204513540435
+고지혈,MRI z_BV_ctx_rh_cingulate,-0.159766162247817
+고지혈,MRI z_BV_lh_lateral_ventricle_w_inf,-0.23874852568341995
+고지혈,MRI z_BV_rh_lateral_ventricle_w_inf,-0.16407916002952824
+고지혈,MRI z_BV_lh_whole_brain,-0.12900954078306875
+고지혈,MRI z_BV_rh_whole_brain,-0.04977550210057725
+고지혈,MRI z_BV_lh_cerebellum,0.19606583929468976
+고지혈,MRI z_BV_rh_cerebellum,-0.11860720042729368
+고지혈,MRI k_BV_lateral_ventricle,0.35064920644705716
+고지혈,MRI kf_BV_lateral_ventricle,0.21034641109959043
+고지혈,MRI k_BV_ventricles,0.39467747309660967
+고지혈,MRI kf_BV_ventricles,-0.18140313094858315
+고지혈,MRI k_BV_inf_lat_vent,-0.3699182222161828
+고지혈,MRI kf_BV_inf_lat_vent,-0.023942425753803356
+고지혈,MRI k_BV_lateral_ventricle_w_inf,0.40018604335670954
+고지혈,MRI kf_BV_lateral_ventricle_w_inf,0.007674765599250366
+고지혈,설문 음주,-0.10743597842563532
+고지혈,설문 흡연,-0.04152798026594721
+고지혈,설문 운동,0.18601563708853733
+고지혈,설문 고혈압 가족력(부),0.08581402999521164
+고지혈,설문 고혈압 가족력(모),0.11205941337351948
+고지혈,설문 당뇨 가족력(부),0.07272509090210723
+고지혈,설문 당뇨 가족력(모),0.13987075174372407
+고지혈,설문 심리 스트레스(PSM),0.03289101853787469
+고지혈,설문 BMI,0.23310072790998954
+고지혈,설문 허리둘레,0.29812028100053656
+고지혈,SNP rs429358,0.4456944858719879
+고지혈,SNP rs769446,0.3162614267891202
+고지혈,SNP rs2075291,0.3603736657226322
+고지혈,SNP rs11206510_ld8,0.37424764561837814
+고지혈,SNP rs7412,0.3059479243544324
+고지혈,SNP rs12916_ld12,0.3518835735010098
+고지혈,SNP rs2131925,0.23293371339097482
+고지혈,SNP rs1800588_ld12,0.32803786267348245
+고지혈,SNP rs651821_ld10,0.24515530772853283
+고지혈,SNP rs4299376,0.26442306971734897
+고지혈,SNP rs3764261_ld11,0.27726290822835914
+고지혈,SNP rs629301,0.33357842398971216
+고지혈,SNP rs17145738_ld8,0.2862487099561095
+고지혈,SNP rs2954029,0.3253284738098601
+고지혈,SNP rs12229654_ld15,0.24760514471461134

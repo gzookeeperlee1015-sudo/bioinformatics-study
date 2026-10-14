@@ -49,3 +49,15 @@ __pycache__/
 venv/
 .DS_Store
 
+
+# 뇌 MRI 해마 예측 모델 (BAG 기준범위)
+# 제출패키지의 results는 결과물이므로 추적 (위의 results/ 규칙 예외)
+!05_제출패키지_20261013/results/
+!04_brain_imbalance/**/results/
+*.pyc
+
+# 원자료는 저장소에 올리지 않음 (연구실 서버에 별도 보관)
+01_대회원자료/
+02_ADNI_원자료/
+03_DLBS_원자료/
+00_정리기록/
